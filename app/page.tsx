@@ -23,9 +23,9 @@ export default function HomePage() {
             <div className="max-w-3xl mx-auto text-center">
               <div className="backdrop-blur-md bg-white/10 rounded-3xl p-8 border border-white/20 shadow-2xl">
                 <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-white to-white/80 bg-clip-text text-transparent">
-                  গরিবের দোকান
+                 হাসিব বাবার দরবার
                 </h1>
-                <p className="text-xl mb-8 text-white/90">সাশ্রয়ী দামে প্রিমিয়াম পণ্য - আপনার জীবনযাত্রার মান উন্নত করুন</p>
+                <p className="text-xl mb-8 text-white/90">রাফির রস টপ টপ কিনতে হলে আজই আসুন আমাদের দোকানে </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Button
                     size="lg"
