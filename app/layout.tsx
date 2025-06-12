@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "গরিবের দোকানে আইসোস কারণ তোর হাজার টাকা নাই খানকির পোলা",
-  description: "সাশ্রয়ী দামে প্রিমিয়াম পণ্য যদি লাগে তো লয়ে যাও রস টপ টপ (রাফি) এর কাছ থেকে",
+  description: "সাশ্রয়ী দামে প্রিমিয়াম পণ্য যদি লাগে তো লয়ে যাও রস টপ টপ (রাফি)এর কাছ থেকে",
     generator: 'v0.dev'
 }
 
